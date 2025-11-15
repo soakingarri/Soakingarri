@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Train",
+      "type": "python",
+      "request": "launch",
+      "program": "scripts/train.py",
+      "console": "integratedTerminal",
+      "args": ["--config", "configs/train/finetune.yaml"]
+    },
+    {
+      "name": "Serve API",
+      "type": "python",
+      "request": "launch",
+      "program": "scripts/serve.py",
+      "console": "integratedTerminal",
+      "args": ["--config", "configs/serve/fastapi.yaml"]
+    }
+  ]
+}
