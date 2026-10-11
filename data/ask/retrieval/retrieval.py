@@ -76,6 +76,11 @@ from common import DATA_ROOT  # noqa: E402
 VECTOR_BASE_FOLDER = DATA_ROOT / "vector_base"
 KEYWORD_INDEX_FOLDER = DATA_ROOT / "keyword_index"
 
+# Answers cite source passages, so search the RAG chunks by default; the
+# "llm" dataset holds template Q&A training records, not source text.
+DEFAULT_DATASET = "rag"
+ALL_DATASETS = "all"
+
 DEFAULT_CANDIDATE_POOL = 50
 DEFAULT_RRF_K = 60
 
@@ -1087,6 +1092,8 @@ def parse_arguments(argument_list: list[str] | None = None) -> argparse.Namespac
     (8, 'json', ['topic=Heat'], 'rag')
     >>> parse_arguments(["--interactive"]).interactive
     True
+    >>> parse_arguments(["--query", "x"]).dataset, parse_arguments(["--query", "x", "--dataset", "all"]).dataset
+    ('rag', 'all')
     >>> parse_arguments(["--query", "x", "--context"]).format
     'context'
     >>> options = parse_arguments(["--query", "x", "--hybrid", "--rerank",
@@ -1124,7 +1131,8 @@ def parse_arguments(argument_list: list[str] | None = None) -> argparse.Namespac
 
     parser.add_argument(
         "--dataset",
-        help="restrict to one dataset, for example rag or llm",
+        default=DEFAULT_DATASET,
+        help="dataset to search: rag (source passages, the default), llm, or all",
     )
 
     parser.add_argument(
@@ -1243,7 +1251,7 @@ def main() -> None:
 
     filters = parse_filter_arguments(options.filter)
 
-    if options.dataset:
+    if options.dataset and options.dataset != ALL_DATASETS:
         filters["dataset"] = options.dataset
 
     for field_name in ("language", "source_type", "tool"):
