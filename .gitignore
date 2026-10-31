@@ -6,3 +6,4 @@ __pycache__/
 *.lock
 .met_recovery_done
 *.full_backup.jsonl
+*.log
