@@ -1,0 +1,835 @@
+[
+  {
+    "image_id": "000000001",
+    "title": "Great_Sphinx_of_Giza_May_2015.jpeg",
+    "description": "Statue of an original Egyptian Man with the body of a lion",
+    "category": "",
+    "tags": ["Giza", "Pyramid complex", "Merkuti complex", "Man-Lion", "Sphinx"],
+    "source": {
+      "name": "",
+      "url": "Great_Sphinx_of_Giza_May_2015.jpeg"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "",
+      "region": "",
+      "language": ""
+    }
+  },
+  {
+    "image_id": "000000002",
+    "title": "File:DSC07643 Kalabsha - main pilons.jpg",
+    "description": "Kalabsha Temple.",
+    "category": "Ancient Egypt",
+    "tags": ["Entrance", "Kalabsha Temple"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DSC07643_Kalabsha_-_main_pilons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000002.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000003",
+    "title": " Kalabsha Temple.jpg",
+    "description": "This temple was removed when building the Aswan dam ( Kalabsha Temple)",
+    "category": "Ancient Egypt",
+    "tags": ["Kalabsha Temple", "Kalabsha Pillars", "Kalabsha Column"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/DSC07647_Kalabsha_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ["Aswan", "New Kalabsha Island", "Bab al-Kalabsha"]
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000003.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000004",
+    "title": "Kalabsha Temple.jpg",
+    "description": "Kalabsha Temple in Kemet.",
+    "category": "Ancient Egypt",
+    "tags": ["Kalabsha Temple", "Kalabsha Wall Carvings", "Kalabsha Giving Offerings", "Meduneter", "Heiroglyphs"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/DSC07651Kalabsha_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ["Aswan", "New Kalabsha Island", "Bab al-Kalabsha"]
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000004.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000005",
+    "title": "Ankh coin.jpg",
+    "description": "Coin with Ankh symbol",
+    "category": "Ancient Egypt",
+    "tags": ["Ankh", "Coin"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Egyptian_temple%2C_Hadrian%2C_117-138_CE%2C_Fitzwilliam_Museum_Cambridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000005.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000007",
+    "title": "Map of Kemet and Kush.jpg",
+    "description": "Geographical limits of the ancient egyptian temples",
+    "category": "Ancient Egypt",
+    "tags": ["Map", "Gebel Barka", "Siwa", "Timna", "Sudan"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Limitestemplosegipcios.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": "Gebel Barka"
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000007.png"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000016",
+    "title": "File:Ägyptischer Maler um 1500 v. Chr. 001.jpg",
+    "description": "",
+    "category": "Ancient Egypt",
+    "tags": [],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/%C3%84gyptischer_Maler_um_1500_v._Chr._001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000016.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000018",
+    "title": " Wall Painting of Tutankhamun.jpg",
+    "description": "Tomb of Tutankhamun, Valley of the Kings",
+    "category": "Ancient Egypt",
+    "tags": ["Tutankhamun", "Wall painting"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ay_detail_in_KV62_-_Opening_of_the_Mouth_for_Tutankhamun_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": "Luxor"
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000018.jpeg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000019",
+    "title": " Wall Painting of Tutankhamun2.jpg",
+    "description": "Tomb of Tutankhamun, Valley of the Kings, Luxor, Egypt",
+    "category": "Ancient Egypt",
+    "tags": ["Wall painting", "Tutankhamun", "Tutankhamun wearing leopard skin", "Tutankhamun holding a tool"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ay_detail_in_KV62_-_Opening_of_the_Mouth_for_Tutankhamun.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": "Luxor"
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000019.jpeg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000022",
+    "title": "Original Egyptian Lady Playing the Lyre.jpg",
+    "description": "Original Egyptian lady playing the Lyre",
+    "category": "Ancient Egypt",
+    "tags": ["Lyre", "Musical instrument", "Kemet guitar", "Original Egyptian entertainer"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Egypt_lyre_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000022.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000027",
+    "title": "Wall painting of Original Egyptian Head of State also known as Pharoah",
+    "description": "Wall paintings of a Pharoah making offerings with a lady in the Temple, with Meduneter carvings on the wall.",
+    "category": "Ancient Egypt",
+    "tags": ["Wall painting", "Pharoah", "Original Egyptian Head of State", "Temple offering", "Tomb", "Meduneter inscriptions"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Horemheb_wall_painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000027.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000029",
+    "title": "Khonsu Temple in Karnak.jpg",
+    "description": "Wall carvings from the Sanctuary of Khonsu Temple.Khonsou is wearing a Sun Disk with two Plumes",
+    "category": "Ancient Egypt",
+    "tags": ["Khonsu", "Moon", "Falcon Face", "Sun Disk", "Healing", "Protection", "Time" ],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/KhonsuTemple-Karnak-Khonsu-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000029.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000030",
+    "title": "File:KhonsuTemple-Karnak-Khonsu.jpg",
+    "description": "Relief from the Sanctuary of Khonsu. It is a representation of Khonsou although here with the characteristics of Menthu (the sun disk and the two plumes.jpg",
+    "category": "Ancient Egypt",
+    "tags": ["Khonsu", "Falcon", "Sun disk", "Plumes", "Sanctuary", "Wall paintings"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/KhonsuTemple-Karnak-Khonsu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000030.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000033",
+    "title": "Wall painting of an original Egyptian elder and youth.jpg",
+    "description": "A wall painting of an original Egyptian elder and youth doing something together",
+    "category": "Ancient Egypt",
+    "tags": ["Original Egyptian Elder", "Original Egyptian Youth"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Maler_der_Grabkammer_des_Ipi_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000033.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000034",
+    "title": "Painting of an original Egyptian youth.jpg",
+    "description": "Original Egyptian Youth with low cut hair style, smelling a lotus flower",
+    "category": "Ancient Egypt",
+    "tags": ["Egyptian Youth", "Lotus flower"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Maler_der_Grabkammer_des_Nebseni_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000034.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000035",
+    "title": "Wall painting of an original Egyptian.jpg",
+    "description": "Wall painting of an original Egpytian lady looking outwards, with long black curly hair, wearing a dress, with two other original Egyptians in the background.jpg",
+    "category": "Ancient Egypt",
+    "tags": ["Original Egyptian Lady", "Long curly black hair", ""],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Maler_der_Grabkammer_des_Userh%C3%AAt_%28II%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000035.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000039",
+    "title": "A portrait wall painting of Tutankhamun.jpg",
+    "description": "Two versions of Tutankhamun, one wearing a leopard skin and white slippers with a black crown, another with his wrapped in a white linen clothing and a white crown on his head",
+    "category": "Ancient Egypt",
+    "tags": [],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Opening_of_the_Mouth_-_Tutankhamun_and_Aja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000039.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000044",
+    "title": "Wall painting of Original Egyptians.jpg",
+    "description": "Three original Egyptians bare chested wearing white linen clothing, one carrying a red bowl, one holding birds, and one carring fishes, grapes and lotus flowers",
+    "category": "Ancient Egypt",
+    "tags": ["Birds", "Fish", "Wall painting", "Hair style", "Bare chested"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sham_El_Nessim_in_Ancient_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000044.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000045",
+    "title": "Wall painting of a group of orginal Egyptian men.jpg", 
+    "description": "In this wall painting of an ordinary day in the lives of orginal Egyptians, a man is taking punishment from another, while another is kneeling down as if under punishment too",
+    "tags": ["daily life of original Egyptians", "punishment", "Man", "Bare chested"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Slavebeating.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000045.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000046",
+    "title": "Theban tomb wall painting of an original Egyptian man hunting.jpg",
+    "description": "Scene from the tomb of Neferhotep, Theban tomb.",
+    "category": "Ancient Egypt",
+    "tags": ["Tomb painting", "Hunting", "Meduneter"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Theban_tomb_a6_hunting_in_desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000046.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000047",
+    "title": " Ceiling painting of a Tomb in Luxor.jpg",
+    "description": "Ceiling paintings of trees, motifs and other geometrical patters",
+    "category": "Ancient Egypt",
+    "tags": ["Ceiling paintings", "Tomb", "Luxor"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Tombe_de_Senofer_%C3%A0_Luxor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000047.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000053",
+    "title": "Bust of an original Egyptian named Nefertari.jpg",
+    "description": "Bust of original Egyptian named Nefertari, wearing a crown with flying serpents. The bust has a broken nose, thick lips, typical Black features",
+    "category": "Ancient Egypt",
+    "tags": ["Nefertari", "Braid Hairstyle", "Bust", "Flying Serpent Crown", "Thick lips", "Black Features"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Busto_de_Nefertari_-_A740816_101552901459799_edit_101594154010148.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000053.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000056",
+    "title": "Bust of an original Egyptian woman.jpg",
+    "description": "2 Stone busts of an original Egpytian woman with thick lips and long dread hairstyle",
+    "category": "Ancient Egypt",
+    "tags": ["Dread", "Original Egyptian Woman", "Stone", "Thicklips"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Figura_%2852585074119%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000056.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000058",
+    "title": "A black diorite stone statue of Pharoah Khafre.jpg",
+    "description": "A diorite statue of an original Egyptian man named Khafre, who was the leader of the ruling dynasty, in other words Pharoah. He is wearing a nemes head cloth, seated on a rock with Meduneter carvings.",
+    "category": "Ancient Egypt",
+    "tags": ["Khafre", "Museum", "Nemes", "Head cloth", "Diorite rock", "Statue", "African features", "Black Features", "Thick lips"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Grand_Egyptian_Museum_-_Dark_stone_seated_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000058.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000059",
+    "title": "Granite carving of an original Egyptian man wearing a nemes.jpg",
+    "description": "The remainant of a Granite statue of an original Egpytian man with thick lips and broad nose. He is wearing a royal nemes head cloth.",
+    "category": "Ancient Egypt",
+    "tags": ["Nemes", "Head", "Thick lips", "Broad nose", "Granite"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Grand_Egyptian_Museum_-_Granite_royal_head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000059.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000065",
+    "title": "Brown skin painted statue of a couple of original Egyptians.jpg",
+    "description": "A statue of a couple who are original Egyptians, with obvious copper melanated skin, thick lips and broad noses, seated on a bench.",
+    "category": "Ancient Egypt",
+    "tags": ["Couple", "Statue", "Grand Egyptian Museum", "Dreads", "Long curly hair"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Grand_Egyptian_Museum_-_Painted_pair_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000065.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000066",
+    "title": "Statue of Neferhotep and Tjenteti.jpg",
+    "description": "A statue of original Egyptians named Priestess of Hathor Tjenteti as she embraces her husband. They both have thick lips, and broad noses. The faded copper skin painting shows they had melanin.",
+    "category": "Ancient Egypt",
+    "tags": ["Copper skin", "Couple", "Broad noses", "Thick lips", "Statue"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Grand_Egyptian_Museum_-_Painted_standing_statue_and_pair_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000066.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000068",
+    "title": "Statues of original Egyptians from the Old Kingdom.jpg",
+    "description": "Row of statues of original Egyptians who look like officials on display at the Grand Egyptian Museum in Giza.",
+    "category": "Ancient Egypt",
+    "tags": ["Original Egyptian Woman", "Original Egyptian Man", "Thick lips", "Broad noses", "Giza"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Grand_Egyptian_Museum_-_Row_of_Old_Kingdom_statues.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000068.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000069",
+    "title": " Granite statue of an original Egyptian.jpg",
+    "description": "Original Egyptian with broad nose and thick lips seated in a yoga pose.",
+    "category": "Ancient Egypt",
+    "tags": ["Original Egyptian Man", "Yoga", "Grand Egyptian Museum"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Grand_Egyptian_Museum_-_Seated_granite_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000069.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000071",
+    "title": "Black rock statue of an original Egyptian.jpg",
+    "description": " Bust of an Original Egyptian carved on a black rock, with two Falcons and carvings of Meduneter(Heiroglyphs) on the rock.",
+    "category": "Ancient Egypt",
+    "tags": ["Meduneter", "Black rock", "Bald Hairstyle", "Falcons", "Statue"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Grand_Egyptian_Museum_-_Statue_with_Hathor_emblem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000071.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }
+  },
+  {
+    "image_id": "000000075",
+    "title": "Old Kingdom, Middle Kingdom, New Kingdom. Three colossal statues side by side.jpg",
+    "description": "Old Kingdom, Middle Kingdom, New Kingdom. Three colossal statues side by side.",
+    "category": "Ancient Egypt",
+    "tags": ["Broad nose", "Thick lips", "Black Diorite Rock", "Black Granite", "Colossal Statue"],
+    "source": {
+      "name": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Old_Kingdom%2C_Middle_Kingdom%2C_New_Kingdom._Three_colossal_statues_side_by_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "location": {
+      "country": "Egypt",
+      "original_name": "Kemet",
+      "city": ""
+    },
+    "date_created": "",
+    "images": [
+      "s3://rag-african-history-images/ancient-egypt/000000075.jpg"
+    ],
+    "metadata": {
+      "dataset": "SoakinGarri Images",
+      "version": "1.0",
+      "continent": "Africa",
+      "region": "North Africa",
+      "language": "Meduneter"
+    }}
+]

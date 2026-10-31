@@ -1,0 +1,80 @@
+import os
+import random
+import subprocess
+import numpy as np
+
+VIDEO_DIR = "videos"
+SHOT_DIR = "screenshots"
+
+os.makedirs(VIDEO_DIR, exist_ok=True)
+os.makedirs(SHOT_DIR, exist_ok=True)
+
+
+def download_video(url):
+    output_path = os.path.join(VIDEO_DIR, "%(title)s.%(ext)s")
+    subprocess.run([
+        "yt-dlp",
+        "-f", "mp4",
+        "-o", output_path,
+        url
+    ])
+    return VIDEO_DIR
+
+
+def get_video_duration(video_path):
+    result = subprocess.run(
+        [
+            "ffprobe", "-v", "error",
+            "-show_entries", "format=duration",
+            "-of", "default=noprint_wrappers=1:nokey=1",
+            video_path
+        ],
+        stdout=subprocess.PIPE
+    )
+    return float(result.stdout)
+
+
+def generate_timestamps(duration, mode="random", count=10, interval=5, custom=None):
+    if mode == "random":
+        return sorted(random.uniform(0, duration) for _ in range(count))
+
+    elif mode == "interval":
+        return np.arange(0, duration, interval)
+
+    elif mode == "custom":
+        return custom
+
+    else:
+        raise ValueError("Invalid mode")
+
+
+def extract_screenshots(video_path, timestamps):
+    for i, t in enumerate(timestamps):
+        output_file = os.path.join(SHOT_DIR, f"shot_{i:03d}.jpg")
+        subprocess.run([
+            "ffmpeg",
+            "-ss", str(t),
+            "-i", video_path,
+            "-frames:v", "1",
+            "-q:v", "2",
+            output_file
+        ])
+
+
+if __name__ == "__main__":
+    url = input("Enter YouTube URL: ")
+    download_video(url)
+
+    video_file = os.path.join(VIDEO_DIR, os.listdir(VIDEO_DIR)[0])
+    duration = get_video_duration(video_file)
+
+    # MODE OPTIONS
+    timestamps = generate_timestamps(
+        duration,
+        mode="random",      # "random", "interval", "custom"
+        count=20,
+        interval=10,
+        custom=[5, 30, 60]
+    )
+
+    extract_screenshots(video_file, timestamps)

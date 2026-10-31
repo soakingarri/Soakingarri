@@ -1,0 +1,8 @@
+{
+  "input_folder": "/Users/t.baks/Soakingarri/data/ask/cleaned_data",
+  "output_folder": "/Users/t.baks/Soakingarri/data/ask/deduplicated_data",
+  "total_paragraphs": 102,
+  "exact_duplicates_removed": 0,
+  "near_duplicates_removed": 0,
+  "removed": []
+}

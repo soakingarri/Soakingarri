@@ -1,0 +1,21 @@
+{
+  "input_folder": "/Users/t.baks/Soakingarri/data/ask/language_tagged_data",
+  "output_folder": "/Users/t.baks/Soakingarri/data/ask/chunked_data",
+  "source_label": "Borrowed content and open source",
+  "total_files": 1,
+  "successful_files": 1,
+  "failed_files": 0,
+  "chunk_count": 26,
+  "llm_record_count": 54,
+  "rag_record_count": 26,
+  "llm_output_file": "/Users/t.baks/Soakingarri/data/ask/chunked_data/llm_training_data.jsonl",
+  "rag_output_file": "/Users/t.baks/Soakingarri/data/ask/chunked_data/rag_data.jsonl",
+  "files": [
+    {
+      "status": "success",
+      "input": "/Users/t.baks/Soakingarri/data/ask/language_tagged_data/Gell_Alfred_1998_2000_Time_and_Social_Anthropology_cleaned.json",
+      "documents": 1,
+      "chunks": 26
+    }
+  ]
+}

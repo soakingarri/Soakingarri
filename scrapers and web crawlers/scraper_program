@@ -1,0 +1,119 @@
+import requests
+from bs4 import BeautifulSoup
+
+AFRICAN_COUNTRIES = [
+    
+    "angola",
+    "benin",
+    "botswana",
+    "burkina-faso",
+    "burundi",
+    "cabo-verde",
+    "cameroon",
+    "central-african-republic",
+    "chad",
+    "comoros",
+    "democratic-republic-of-the-congo",
+    "republic-of-the-congo",
+    "djibouti",
+    "egypt",
+    "equatorial-guinea",
+    "eritrea",
+    "eswatini",
+    "ethiopia",
+    "gabon",
+    "gambia",
+    "ghana",
+    "guinea",
+    "guinea-bissau",
+    "ivory-coast",
+    "kenya",
+    "lesotho",
+    "liberia",
+    "libya",
+    "madagascar",
+    "malawi",
+    "mali",
+    "mauritania",
+    "mauritius",
+    "mozambique",
+    "namibia",
+    "niger",
+    "nigeria",
+    "rwanda",
+    "sao-tome-and-principe",
+    "senegal",
+    "seychelles",
+    "sierra-leone",
+    "somalia",
+    "south-africa",
+    "south-sudan",
+    "sudan",
+    "tanzania",
+    "togo",
+    "uganda",
+    "zambia",
+    "zimbabwe"
+]
+
+# master set containing ALL surnames
+all_surnames = set()
+
+for country in AFRICAN_COUNTRIES:
+
+    url = f"https://forebears.io/{country}/surnames"
+
+    print(f"Scraping {country}...")
+
+    try:
+        html = requests.get(
+            url,
+            headers={"User-Agent": "Mozilla/5.0"},
+            timeout=20
+        ).text
+
+        soup = BeautifulSoup(html, "html.parser")
+
+        country_surnames = set()
+
+        for link in soup.find_all("a", href=True):
+
+            href = link["href"]
+
+            if href.startswith("surnames/"):
+
+                surname = link.get_text(strip=True)
+
+                if surname:
+                    country_surnames.add(
+                        surname.lower()
+                    )
+
+        print(
+            f"Found {len(country_surnames)} surnames"
+        )
+
+        # ADD surnames instead of replacing
+        all_surnames.update(country_surnames)
+
+    except Exception as e:
+        print(
+            f"Failed on {country}: {e}"
+        )
+
+print(
+    f"\nTotal unique surnames: {len(all_surnames)}"
+)
+
+with open(
+    "african_surnames.txt",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    for surname in sorted(all_surnames):
+        f.write(surname + "\n")
+
+print(
+    "Saved to african_surnames.txt"
+)

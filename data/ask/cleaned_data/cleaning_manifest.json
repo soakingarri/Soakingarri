@@ -1,0 +1,16 @@
+{
+  "input_folder": "/Users/t.baks/Soakingarri/data/ask/raw_data",
+  "output_folder": "/Users/t.baks/Soakingarri/data/ask/cleaned_data",
+  "total_files": 1,
+  "successful_files": 1,
+  "failed_files": 0,
+  "results": [
+    {
+      "status": "success",
+      "input": "/Users/t.baks/Soakingarri/data/ask/raw_data/Gell_Alfred_1998_2000_Time_and_Social_Anthropology.pdf",
+      "output": "/Users/t.baks/Soakingarri/data/ask/cleaned_data/Gell_Alfred_1998_2000_Time_and_Social_Anthropology_cleaned.json",
+      "chapters": 15,
+      "paragraphs": 102
+    }
+  ]
+}

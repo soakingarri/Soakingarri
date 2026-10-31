@@ -1,0 +1,43 @@
+{
+  "program": "SoakinGarri Embedding Program",
+  "input_folder": "/Users/t.baks/Soakingarri/data/ask/chunked_data",
+  "output_folder": "/Users/t.baks/Soakingarri/data/ask/embedding_data",
+  "source_label": "Borrowed content and open source",
+  "embedding_model": "BAAI/bge-m3",
+  "device": "mps",
+  "batch_size": 256,
+  "maximum_sequence_length": 8192,
+  "normalized_embeddings": true,
+  "vector_dtype": "float32",
+  "total_embedded_records": 80,
+  "datasets": [
+    {
+      "status": "success",
+      "dataset_type": "llm",
+      "input_file": "/Users/t.baks/Soakingarri/data/ask/chunked_data/llm_training_data.jsonl",
+      "vector_file": "/Users/t.baks/Soakingarri/data/ask/embedding_data/llm_embeddings.npy",
+      "metadata_file": "/Users/t.baks/Soakingarri/data/ask/embedding_data/llm_embedding_metadata.jsonl",
+      "record_count": 54,
+      "embedding_dimension": 1024,
+      "vector_shape": [
+        54,
+        1024
+      ],
+      "vector_dtype": "float32"
+    },
+    {
+      "status": "success",
+      "dataset_type": "rag",
+      "input_file": "/Users/t.baks/Soakingarri/data/ask/chunked_data/rag_data.jsonl",
+      "vector_file": "/Users/t.baks/Soakingarri/data/ask/embedding_data/rag_embeddings.npy",
+      "metadata_file": "/Users/t.baks/Soakingarri/data/ask/embedding_data/rag_embedding_metadata.jsonl",
+      "record_count": 26,
+      "embedding_dimension": 1024,
+      "vector_shape": [
+        26,
+        1024
+      ],
+      "vector_dtype": "float32"
+    }
+  ]
+}

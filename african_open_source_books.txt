@@ -1,0 +1,675 @@
+`AFRICAN OPEN SOURCE BOOKS
+================================================================================
+
+BOOK: 2020-2021 The College
+AUTHOR: France 21 France 21 Agendas
+MATCHED SURNAME: france
+--------------------------------------------------------------------------------
+BOOK: 2Up
+AUTHOR: Miranda Lee
+MATCHED SURNAME: lee
+--------------------------------------------------------------------------------
+BOOK: A Game of Horns
+AUTHOR: British Museum (Natural History). Dept . of Zoology
+MATCHED SURNAME: british
+--------------------------------------------------------------------------------
+BOOK: A history of the earth
+AUTHOR: Woodward, John
+MATCHED SURNAME: john
+--------------------------------------------------------------------------------
+BOOK: A report of the Kingdom of Congo : and of the surrounding countries
+AUTHOR: Duarte Lopes
+MATCHED SURNAME: duarte
+--------------------------------------------------------------------------------
+BOOK: A.M.U.
+AUTHOR: Jerry Kuhnhausen
+MATCHED SURNAME: jerry
+--------------------------------------------------------------------------------
+BOOK: Administration and Policy Analysis
+AUTHOR: R. A. W. Rhodes
+MATCHED SURNAME: a
+--------------------------------------------------------------------------------
+BOOK: Africa
+AUTHOR: Walter Rodney
+MATCHED SURNAME: walter
+--------------------------------------------------------------------------------
+BOOK: AFRICAN
+AUTHOR: Llaila O. Afrika
+MATCHED SURNAME: afrika
+--------------------------------------------------------------------------------
+BOOK: AFRICAN
+AUTHOR: Llaila Olela Afrika
+MATCHED SURNAME: afrika
+--------------------------------------------------------------------------------
+BOOK: African Diaspora Archaeology
+AUTHOR: Toyin Falola
+MATCHED SURNAME: falola
+--------------------------------------------------------------------------------
+BOOK: African indigenous knowledge and the sciences
+AUTHOR: Gloria Emeagwali
+MATCHED SURNAME: emeagwali
+--------------------------------------------------------------------------------
+BOOK: African indigenous knowledge and the sciences
+AUTHOR: Edward Shizha
+MATCHED SURNAME: edward
+--------------------------------------------------------------------------------
+BOOK: African indigenous knowledge systems
+AUTHOR: Edward Shizha
+MATCHED SURNAME: edward
+--------------------------------------------------------------------------------
+BOOK: African indigenous knowledge systems
+AUTHOR: Christopher Ndlovu
+MATCHED SURNAME: christopher
+--------------------------------------------------------------------------------
+BOOK: African Mythology A to Z
+AUTHOR: Patricia Ann Lynch
+MATCHED SURNAME: ann
+--------------------------------------------------------------------------------
+BOOK: African Symbols: Adinkra
+AUTHOR: Mimi Robinson
+MATCHED SURNAME: robinson
+--------------------------------------------------------------------------------
+BOOK: African Traditional Medicine
+AUTHOR: Peter Ikechukwu Osuji
+MATCHED SURNAME: ikechukwu
+--------------------------------------------------------------------------------
+BOOK: African typesetting
+AUTHOR: Hazell Watson and Viney Limited.
+MATCHED SURNAME: watson
+--------------------------------------------------------------------------------
+BOOK: Africa’s Endangered Languages
+AUTHOR: Matthias Brenzinger
+MATCHED SURNAME: matthias
+--------------------------------------------------------------------------------
+BOOK: Afro-Caribbean Religions
+AUTHOR: Nathaniel Samuel Murrell
+MATCHED SURNAME: nathaniel
+--------------------------------------------------------------------------------
+BOOK: Among the primitive Bakongo : a record of thirty
+AUTHOR: John H. Weeks
+MATCHED SURNAME: john
+--------------------------------------------------------------------------------
+BOOK: Anna Kingsley
+AUTHOR: Daniel L. Schafer
+MATCHED SURNAME: daniel
+--------------------------------------------------------------------------------
+BOOK: Appendix 5
+AUTHOR: Ralph Judson Smith
+MATCHED SURNAME: smith
+--------------------------------------------------------------------------------
+BOOK: Ashanti Empire
+AUTHOR: Weruche George
+MATCHED SURNAME: george
+--------------------------------------------------------------------------------
+BOOK: Bioarchaeology of Nubia
+AUTHOR: Jerome Carl Rose
+MATCHED SURNAME: jerome
+--------------------------------------------------------------------------------
+BOOK: Black Morocco
+AUTHOR: Chouki El Hamel
+MATCHED SURNAME: el
+--------------------------------------------------------------------------------
+BOOK: Body; of power
+AUTHOR: Jean Comaroff
+MATCHED SURNAME: jean
+--------------------------------------------------------------------------------
+BOOK: Bunyoro kitara kingdom
+AUTHOR: David Kihumuro Apuuli
+MATCHED SURNAME: david
+--------------------------------------------------------------------------------
+BOOK: Carina E
+AUTHOR: A. K. Legg
+MATCHED SURNAME: a
+--------------------------------------------------------------------------------
+BOOK: Carthage and the Carthaginians
+AUTHOR: R. Bosworth Smith
+MATCHED SURNAME: smith
+--------------------------------------------------------------------------------
+BOOK: Carthage and Tunis, the old and new gates of the Orient
+AUTHOR: Douglas Sladen
+MATCHED SURNAME: douglas
+--------------------------------------------------------------------------------
+BOOK: Chapter 2
+AUTHOR: Julian Barnes
+MATCHED SURNAME: barnes
+--------------------------------------------------------------------------------
+BOOK: CHAPTER 2
+AUTHOR: Julian Barnes
+MATCHED SURNAME: barnes
+--------------------------------------------------------------------------------
+BOOK: Chapter 5
+AUTHOR: Marc Brown
+MATCHED SURNAME: brown
+--------------------------------------------------------------------------------
+BOOK: CHAPTER I: INTRODUCTION
+AUTHOR: Evans, David
+MATCHED SURNAME: david
+--------------------------------------------------------------------------------
+BOOK: Collective Action in the Formation
+AUTHOR: Richard Blanton
+MATCHED SURNAME: richard
+--------------------------------------------------------------------------------
+BOOK: Collective Action in the Formation
+AUTHOR: Lane Fargher
+MATCHED SURNAME: lane
+--------------------------------------------------------------------------------
+BOOK: Collective Action in the Formation
+AUTHOR: Richard E. Blanton
+MATCHED SURNAME: richard
+--------------------------------------------------------------------------------
+BOOK: Companion To Historiography
+AUTHOR: Michael Bentley
+MATCHED SURNAME: michael
+--------------------------------------------------------------------------------
+BOOK: Conference Report
+AUTHOR: Richard Wright
+MATCHED SURNAME: richard
+--------------------------------------------------------------------------------
+BOOK: COURSE CODE
+AUTHOR: Hill, Raymond
+MATCHED SURNAME: hill
+--------------------------------------------------------------------------------
+BOOK: Crushed but
+AUTHOR: Melissa Bosch
+MATCHED SURNAME: bosch
+--------------------------------------------------------------------------------
+BOOK: Culture
+AUTHOR: Daniel Coyle
+MATCHED SURNAME: daniel
+--------------------------------------------------------------------------------
+BOOK: Daily Lives of Civilians in
+AUTHOR: Stewart Lone
+MATCHED SURNAME: stewart
+--------------------------------------------------------------------------------
+BOOK: DISCOVERING
+AUTHOR: Benjamin Alire Sáenz
+MATCHED SURNAME: benjamin
+--------------------------------------------------------------------------------
+BOOK: DRAFT PROGRAMME
+AUTHOR: Communist Party of Great Britain
+MATCHED SURNAME: party
+--------------------------------------------------------------------------------
+BOOK: E DUCATION
+AUTHOR: Roger Gal
+MATCHED SURNAME: roger
+--------------------------------------------------------------------------------
+BOOK: Edinburgh and Lothians
+AUTHOR: Roger Smith
+MATCHED SURNAME: roger
+--------------------------------------------------------------------------------
+BOOK: EduCation and
+AUTHOR: Terry Pratchett
+MATCHED SURNAME: terry
+--------------------------------------------------------------------------------
+BOOK: ELPHINSTONE
+AUTHOR: R. D. Choksey
+MATCHED SURNAME: d
+--------------------------------------------------------------------------------
+BOOK: Encyclopedia of African Literature
+AUTHOR: Simon Gikandi
+MATCHED SURNAME: gikandi
+--------------------------------------------------------------------------------
+BOOK: Encyclopedia of Historical Archaeology
+AUTHOR: Charles E. Orser Jnr
+MATCHED SURNAME: charles
+--------------------------------------------------------------------------------
+BOOK: Encyclopedia of the Literature of Empire
+AUTHOR: Mary Ellen Snodgrass
+MATCHED SURNAME: mary
+--------------------------------------------------------------------------------
+BOOK: Encyclopedia of the Middle Passage
+AUTHOR: Toyin Falola
+MATCHED SURNAME: falola
+--------------------------------------------------------------------------------
+BOOK: Excavation
+AUTHOR: James Rollins
+MATCHED SURNAME: james
+--------------------------------------------------------------------------------
+BOOK: Faculty of pharmacy
+AUTHOR: Montréal. Université. Faculté de pharmacie
+MATCHED SURNAME: de
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: William McGeveran Jr.
+MATCHED SURNAME: jr
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: Sarah Janssen, editor
+MATCHED SURNAME: sarah
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: Elaine Israel
+MATCHED SURNAME: israel
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: Inc. World Almanac Education Group
+MATCHED SURNAME: education
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: St. Martin's Press
+MATCHED SURNAME: press
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: Sarah Janssen
+MATCHED SURNAME: sarah
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: Judith S. Levey
+MATCHED SURNAME: judith
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: sarah janssen
+MATCHED SURNAME: sarah
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: Zoe Kashner
+MATCHED SURNAME: zoe
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: Sarah janseen
+MATCHED SURNAME: sarah
+--------------------------------------------------------------------------------
+BOOK: For the world
+AUTHOR: Kevin Seabrooke
+MATCHED SURNAME: kevin
+--------------------------------------------------------------------------------
+BOOK: From Africa to Brazil
+AUTHOR: Walter Hawthorne
+MATCHED SURNAME: walter
+--------------------------------------------------------------------------------
+BOOK: From fossils to mind
+AUTHOR: Alexandra de Sousa
+MATCHED SURNAME: de
+--------------------------------------------------------------------------------
+BOOK: Full text of "Catalogue"
+AUTHOR: British Library. Bibliographic Services Division
+MATCHED SURNAME: british
+--------------------------------------------------------------------------------
+BOOK: G r e a t Z i m b a b w e
+AUTHOR: Samuel Norberg
+MATCHED SURNAME: samuel
+--------------------------------------------------------------------------------
+BOOK: General History of Africa
+AUTHOR: Christophe Wondji
+MATCHED SURNAME: christophe
+--------------------------------------------------------------------------------
+BOOK: General History of Africa
+AUTHOR: Ali AlʼAmin Mazrui
+MATCHED SURNAME: ali
+--------------------------------------------------------------------------------
+BOOK: General Introduction - University of Manchester
+AUTHOR: T.B.W. (ed) Reid
+MATCHED SURNAME: reid
+--------------------------------------------------------------------------------
+BOOK: Governing the Empire. Provincial Administration in the
+AUTHOR: Pascal Buresi
+MATCHED SURNAME: pascal
+--------------------------------------------------------------------------------
+BOOK: GREAT ZIMBABWE
+AUTHOR: Hall, Martin
+MATCHED SURNAME: hall
+--------------------------------------------------------------------------------
+BOOK: Great Zimbabwe, Mashonaland, Rhodesia; an
+AUTHOR: Richard Nicklin Hall
+MATCHED SURNAME: hall
+--------------------------------------------------------------------------------
+BOOK: Handbook of Egyptian Mythology
+AUTHOR: Geraldine Harris
+MATCHED SURNAME: harris
+--------------------------------------------------------------------------------
+BOOK: Handbook of Language
+AUTHOR: Martin J. Ball
+MATCHED SURNAME: ball
+--------------------------------------------------------------------------------
+BOOK: Handbook of Language
+AUTHOR: Jack Damico
+MATCHED SURNAME: jack
+--------------------------------------------------------------------------------
+BOOK: Handbook of Language
+AUTHOR: Nicole Muller
+MATCHED SURNAME: muller
+--------------------------------------------------------------------------------
+BOOK: Historical Dictionary of Nigeria
+AUTHOR: Matthew M. Heaton
+MATCHED SURNAME: matthew
+--------------------------------------------------------------------------------
+BOOK: Historical Dictionary of Nigeria
+AUTHOR: A. Oyewole
+MATCHED SURNAME: a
+--------------------------------------------------------------------------------
+BOOK: Historical Dictionary of Nigeria
+AUTHOR: Toyin Falola
+MATCHED SURNAME: falola
+--------------------------------------------------------------------------------
+BOOK: Historical Dictionary of Nigeria
+AUTHOR: Ann Genova
+MATCHED SURNAME: ann
+--------------------------------------------------------------------------------
+BOOK: Image
+AUTHOR: Sandra Brown
+MATCHED SURNAME: brown
+--------------------------------------------------------------------------------
+BOOK: INSIDE
+AUTHOR: Thanhha Lai
+MATCHED SURNAME: lai
+--------------------------------------------------------------------------------
+BOOK: Integrating Indigenous Knowledge Systems for Sustainable
+AUTHOR: Saa Dittoh
+MATCHED SURNAME: saa
+--------------------------------------------------------------------------------
+BOOK: International Organization for
+AUTHOR: Megan Bradley
+MATCHED SURNAME: bradley
+--------------------------------------------------------------------------------
+BOOK: Into the heart of Africa
+AUTHOR: Belinda Crawford
+MATCHED SURNAME: crawford
+--------------------------------------------------------------------------------
+BOOK: Journal of
+AUTHOR: May Sarton
+MATCHED SURNAME: may
+--------------------------------------------------------------------------------
+BOOK: JOURNAL OF THE AFRICAN SOCIETY
+AUTHOR: African Society
+MATCHED SURNAME: african
+--------------------------------------------------------------------------------
+BOOK: Kimpa Vita
+AUTHOR: José Mena Abrantes
+MATCHED SURNAME: josé
+--------------------------------------------------------------------------------
+BOOK: Language planning and social change
+AUTHOR: Robert Leon Cooper
+MATCHED SURNAME: cooper
+--------------------------------------------------------------------------------
+BOOK: Linguistic Areas
+AUTHOR: Justin Watkins
+MATCHED SURNAME: justin
+--------------------------------------------------------------------------------
+BOOK: Male Figure
+AUTHOR: Brandt Aymar
+MATCHED SURNAME: brandt
+--------------------------------------------------------------------------------
+BOOK: MEROITIC
+AUTHOR: Francis Llewellyn Griffith
+MATCHED SURNAME: francis
+--------------------------------------------------------------------------------
+BOOK: MONDAY
+AUTHOR: Tiffany D. Jackson
+MATCHED SURNAME: d
+--------------------------------------------------------------------------------
+BOOK: NBER Working paper series
+AUTHOR: Donald R. Haurin
+MATCHED SURNAME: donald
+--------------------------------------------------------------------------------
+BOOK: NETWORK INNOVATIONS
+AUTHOR: Louis Galambos
+MATCHED SURNAME: louis
+--------------------------------------------------------------------------------
+BOOK: NETWORK INNOVATIONS
+AUTHOR: Jane Eliot Sewell
+MATCHED SURNAME: jane
+--------------------------------------------------------------------------------
+BOOK: News & Notes
+AUTHOR: John Wesley
+MATCHED SURNAME: john
+--------------------------------------------------------------------------------
+BOOK: ODI working paper
+AUTHOR: Lionel de Boisdeffre
+MATCHED SURNAME: de
+--------------------------------------------------------------------------------
+BOOK: Olduvai Gorge Vol. 2 the Cranium of
+AUTHOR: L.S.B. Leakey; P.V. Tobias
+MATCHED SURNAME: tobias
+--------------------------------------------------------------------------------
+BOOK: Paper for B(&N
+AUTHOR: British, Australian, and New Zealand Antarctic Research Expedition (1929-1931)
+MATCHED SURNAME: british
+--------------------------------------------------------------------------------
+BOOK: PAPERS
+AUTHOR: John Green
+MATCHED SURNAME: green
+--------------------------------------------------------------------------------
+BOOK: Pitzer College
+AUTHOR: Josh Gordon
+MATCHED SURNAME: gordon
+--------------------------------------------------------------------------------
+BOOK: Portugal and the scramble for Africa, 1875-1891
+AUTHOR: Eric Axelson
+MATCHED SURNAME: eric
+--------------------------------------------------------------------------------
+BOOK: Portuguesa
+AUTHOR: Maria de Lourdes Modesto
+MATCHED SURNAME: de
+--------------------------------------------------------------------------------
+BOOK: PowerPoint Presentation
+AUTHOR: Moira Stephen
+MATCHED SURNAME: stephen
+--------------------------------------------------------------------------------
+BOOK: Practice: Continuity and
+AUTHOR: Ana Knežević Bojović
+MATCHED SURNAME: ana
+--------------------------------------------------------------------------------
+BOOK: Production, exchange and
+AUTHOR: Armen Albert Alchian
+MATCHED SURNAME: albert
+--------------------------------------------------------------------------------
+BOOK: Progress of the world’s
+AUTHOR: Smith, Lloyd E. (Lloyd Edwin), 1902-1971
+MATCHED SURNAME: edwin
+--------------------------------------------------------------------------------
+BOOK: RELIGION
+AUTHOR: David Hume
+MATCHED SURNAME: david
+--------------------------------------------------------------------------------
+BOOK: Research Paper
+AUTHOR: James D. Lester, Jr.
+MATCHED SURNAME: d
+--------------------------------------------------------------------------------
+BOOK: Research Paper
+AUTHOR: James D. Lester, Sr.
+MATCHED SURNAME: d
+--------------------------------------------------------------------------------
+BOOK: Rethinking Resistance
+AUTHOR: Klaas van Walraven
+MATCHED SURNAME: klaas
+--------------------------------------------------------------------------------
+BOOK: Rethinking Resistance
+AUTHOR: Mirjam de Bruijn
+MATCHED SURNAME: de
+--------------------------------------------------------------------------------
+BOOK: Review
+AUTHOR: John Green
+MATCHED SURNAME: green
+--------------------------------------------------------------------------------
+BOOK: Review Essay
+AUTHOR: William James
+MATCHED SURNAME: james
+--------------------------------------------------------------------------------
+BOOK: SAPIENTIA
+AUTHOR: Francis Bacon
+MATCHED SURNAME: francis
+--------------------------------------------------------------------------------
+BOOK: Scramble for Africa
+AUTHOR: Thomas Pakenham
+MATCHED SURNAME: thomas
+--------------------------------------------------------------------------------
+BOOK: Scramble for Africa
+AUTHOR: Pakenham, Thomas, Hon
+MATCHED SURNAME: thomas
+--------------------------------------------------------------------------------
+BOOK: Scramble for Africa : Darfur-intervention and the
+AUTHOR: Steven Fake
+MATCHED SURNAME: steven
+--------------------------------------------------------------------------------
+BOOK: Scramble for Africa : Darfur-intervention and the
+AUTHOR: Kevin Funk
+MATCHED SURNAME: kevin
+--------------------------------------------------------------------------------
+BOOK: SEPTIMIUS SEVERUS: The African Emperor
+AUTHOR: Anthony Richard Birley
+MATCHED SURNAME: anthony
+--------------------------------------------------------------------------------
+BOOK: Shaking a Leg
+AUTHOR: Angela Carter
+MATCHED SURNAME: carter
+--------------------------------------------------------------------------------
+BOOK: Slave soldiers and islam
+AUTHOR: Daniel Pipes
+MATCHED SURNAME: daniel
+--------------------------------------------------------------------------------
+BOOK: Slave Trade
+AUTHOR: Hugh Thomas
+MATCHED SURNAME: thomas
+--------------------------------------------------------------------------------
+BOOK: Slavery, Agriculture, and Malaria in the Arabian Peninsula
+AUTHOR: Benjamin Reilly
+MATCHED SURNAME: benjamin
+--------------------------------------------------------------------------------
+BOOK: SOMALIA
+AUTHOR: Mohamed Sahnoun
+MATCHED SURNAME: mohamed
+--------------------------------------------------------------------------------
+BOOK: Speak
+AUTHOR: Laurie Halse Anderson
+MATCHED SURNAME: anderson
+--------------------------------------------------------------------------------
+BOOK: SPECIAL
+AUTHOR: Scott Westerfeld
+MATCHED SURNAME: scott
+--------------------------------------------------------------------------------
+BOOK: Sudan in Perspective
+AUTHOR: Abdelwahid Abdalla Yousif
+MATCHED SURNAME: abdalla
+--------------------------------------------------------------------------------
+BOOK: SUDAN STUDIES
+AUTHOR: Abel Alier
+MATCHED SURNAME: abel
+--------------------------------------------------------------------------------
+BOOK: Table of Contents
+AUTHOR: John McPhee
+MATCHED SURNAME: john
+--------------------------------------------------------------------------------
+BOOK: Taking Power: On the Origins of Third World Revolutions
+AUTHOR: JOHN FORAN
+MATCHED SURNAME: john
+--------------------------------------------------------------------------------
+BOOK: tHe AtLAntIC SLAVe tRADe In WoRLD HIStoRy
+AUTHOR: David Northrup
+MATCHED SURNAME: david
+--------------------------------------------------------------------------------
+BOOK: The Chiefdoms of Sierra Leone
+AUTHOR: Arthur Abraham
+MATCHED SURNAME: abraham
+--------------------------------------------------------------------------------
+BOOK: The development of education in East Africa
+AUTHOR: John Cameron
+MATCHED SURNAME: john
+--------------------------------------------------------------------------------
+BOOK: The Hidden History of the Human Race
+AUTHOR: Michael A. Cremo
+MATCHED SURNAME: a
+--------------------------------------------------------------------------------
+BOOK: The Hidden History of the Human Race
+AUTHOR: Richard L. Thompson
+MATCHED SURNAME: richard
+--------------------------------------------------------------------------------
+BOOK: The History of Africa
+AUTHOR: Molefi K. Asante
+MATCHED SURNAME: asante
+--------------------------------------------------------------------------------
+BOOK: The journal of
+AUTHOR: Ted Hughes
+MATCHED SURNAME: hughes
+--------------------------------------------------------------------------------
+BOOK: The journal of
+AUTHOR: Francis McCullagh
+MATCHED SURNAME: francis
+--------------------------------------------------------------------------------
+BOOK: THE KINGDOM OF DAHOMEY
+AUTHOR: Duncan, John
+MATCHED SURNAME: duncan
+--------------------------------------------------------------------------------
+BOOK: The Long-Term Effects of Africa's Slave Trades
+AUTHOR: Nathan Nunn
+MATCHED SURNAME: nathan
+--------------------------------------------------------------------------------
+BOOK: THE MALI EMPIRE
+AUTHOR: Carole P. Roman
+MATCHED SURNAME: roman
+--------------------------------------------------------------------------------
+BOOK: The old oyo empire
+AUTHOR: Robin C. Law
+MATCHED SURNAME: law
+--------------------------------------------------------------------------------
+BOOK: The Oral Tradition of the Baganda of Uganda
+AUTHOR: Immaculate N. Kizza
+MATCHED SURNAME: kizza
+--------------------------------------------------------------------------------
+BOOK: the preservation of Great Zimbabwe
+AUTHOR: Webber Ndoro
+MATCHED SURNAME: ndoro
+--------------------------------------------------------------------------------
+BOOK: The Rise of the Trans-Atlantic Slave Trade in Western Africa, 1300
+AUTHOR: Toby Green
+MATCHED SURNAME: green
+--------------------------------------------------------------------------------
+BOOK: The Trans-Saharan Slave Trade
+AUTHOR: John Wright
+MATCHED SURNAME: john
+--------------------------------------------------------------------------------
+BOOK: The University of Warwick
+AUTHOR: Social Science Research Council (Great Britain). Industrial Relations Research Unit.
+MATCHED SURNAME: relations
+--------------------------------------------------------------------------------
+BOOK: This page intentionally left blank
+AUTHOR: Raymond Jones
+MATCHED SURNAME: jones
+--------------------------------------------------------------------------------
+BOOK: Transformative Leadership
+AUTHOR: Bernard M. Bass
+MATCHED SURNAME: bass
+--------------------------------------------------------------------------------
+BOOK: Uganda Constitution (order in council) 1962
+AUTHOR: Uganda.
+MATCHED SURNAME: uganda
+--------------------------------------------------------------------------------
+BOOK: UNDERSTANDING
+AUTHOR: Scott McCloud
+MATCHED SURNAME: scott
+--------------------------------------------------------------------------------
+BOOK: University of Bath
+AUTHOR: Quality Assurance Agency for Higher Education.
+MATCHED SURNAME: education
+--------------------------------------------------------------------------------
+BOOK: University of california
+AUTHOR: Berkeley University Of California
+MATCHED SURNAME: university
+--------------------------------------------------------------------------------
+BOOK: University of Durham
+AUTHOR: Quality Assurance Agency for Higher Education.
+MATCHED SURNAME: education
+--------------------------------------------------------------------------------
+BOOK: untitled
+AUTHOR: Lisa Jewell
+MATCHED SURNAME: jewell
+--------------------------------------------------------------------------------
+BOOK: Untitled
+AUTHOR: Lisa Jewell
+MATCHED SURNAME: jewell
+--------------------------------------------------------------------------------
+BOOK: War in the early modern world
+AUTHOR: Brian Sandberg
+MATCHED SURNAME: brian
+--------------------------------------------------------------------------------
+BOOK: Without Regard to Race
+AUTHOR: Tunde Adeleke
+MATCHED SURNAME: adeleke
+--------------------------------------------------------------------------------
+BOOK: World Bank Document
+AUTHOR: IPAR Workshop to Discuss World Bank's Document on "Partnership for Capacity Building in Africa" (1996 Nairobi, Kenya)
+MATCHED SURNAME: africa
+--------------------------------------------------------------------------------
+BOOK: ~ Portland State
+AUTHOR: Richard Sanders
+MATCHED SURNAME: richard
+--------------------------------------------------------------------------------

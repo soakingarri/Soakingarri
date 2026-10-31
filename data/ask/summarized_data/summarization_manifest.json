@@ -1,0 +1,33 @@
+{
+  "program": "SoakinGarri Technical Summarization Program",
+  "input_folder": "/Users/t.baks/Soakingarri/data/ask/cleaned_data",
+  "output_folder": "/Users/t.baks/Soakingarri/data/ask/summarized_data",
+  "source_label": "Borrowed content and open source",
+  "categories": [
+    "formula",
+    "concept",
+    "graph",
+    "technical_drawing"
+  ],
+  "images_exported": false,
+  "total_files": 1,
+  "successful_files": 1,
+  "failed_files": 0,
+  "total_findings": 43,
+  "findings_by_category": {
+    "formula": 34,
+    "concept": 8,
+    "technical_drawing": 1
+  },
+  "files": [
+    {
+      "status": "success",
+      "input_file": "/Users/t.baks/Soakingarri/data/ask/cleaned_data/Gell_Alfred_1998_2000_Time_and_Social_Anthropology_cleaned.json",
+      "summary_file": "/Users/t.baks/Soakingarri/data/ask/summarized_data/Gell_Alfred_1998_2000_Time_and_Social_Anthropology_summary.txt",
+      "findings_file": "/Users/t.baks/Soakingarri/data/ask/summarized_data/Gell_Alfred_1998_2000_Time_and_Social_Anthropology_findings.jsonl",
+      "documents": 1,
+      "findings": 43,
+      "exported_images": 0
+    }
+  ]
+}

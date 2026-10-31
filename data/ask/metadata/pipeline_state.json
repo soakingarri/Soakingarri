@@ -1,0 +1,122 @@
+{
+  "stages": {
+    "deduplication": {
+      "status": "success",
+      "input_fingerprint": "42ba0476eb0dec5977fcebe9870dfdd85c25abd3e9ca958bc4d40da2f496614e",
+      "seconds": 0.46,
+      "finished_at": "2026-10-11T03:17:40.544777+00:00",
+      "manifest": {
+        "input_folder": "/Users/t.baks/Soakingarri/data/ask/cleaned_data",
+        "output_folder": "/Users/t.baks/Soakingarri/data/ask/deduplicated_data",
+        "total_paragraphs": 102,
+        "exact_duplicates_removed": 0,
+        "near_duplicates_removed": 0
+      }
+    },
+    "language_detection": {
+      "status": "success",
+      "input_fingerprint": "42ba0476eb0dec5977fcebe9870dfdd85c25abd3e9ca958bc4d40da2f496614e",
+      "seconds": 1.71,
+      "finished_at": "2026-10-11T03:17:42.255094+00:00",
+      "manifest": {
+        "input_folder": "/Users/t.baks/Soakingarri/data/ask/deduplicated_data",
+        "output_folder": "/Users/t.baks/Soakingarri/data/ask/language_tagged_data",
+        "model": "cis-lmu/glotlid/model.bin",
+        "min_confidence": 0.5,
+        "file_count": 1,
+        "document_count": 1,
+        "paragraph_count": 102,
+        "paragraphs_inheriting_language": 20
+      }
+    },
+    "chunking": {
+      "status": "success",
+      "input_fingerprint": "df173a52afb60cb1a09c04b23a7941a9b0c8a878f3230b7db0330bb42d65fb69",
+      "seconds": 0.04,
+      "finished_at": "2026-10-11T03:17:42.298096+00:00",
+      "manifest": {
+        "input_folder": "/Users/t.baks/Soakingarri/data/ask/language_tagged_data",
+        "output_folder": "/Users/t.baks/Soakingarri/data/ask/chunked_data",
+        "source_label": "Borrowed content and open source",
+        "total_files": 1,
+        "successful_files": 1,
+        "failed_files": 0,
+        "chunk_count": 26,
+        "llm_record_count": 54,
+        "rag_record_count": 26,
+        "llm_output_file": "/Users/t.baks/Soakingarri/data/ask/chunked_data/llm_training_data.jsonl",
+        "rag_output_file": "/Users/t.baks/Soakingarri/data/ask/chunked_data/rag_data.jsonl"
+      }
+    },
+    "embedding": {
+      "status": "success",
+      "input_fingerprint": "d9a0660d3f03a5311c9219e880d5397ff4099592aed77aa1a1ba9a9200506dcf",
+      "seconds": 27.64,
+      "finished_at": "2026-10-11T03:18:09.937999+00:00",
+      "manifest": {
+        "program": "SoakinGarri Embedding Program",
+        "input_folder": "/Users/t.baks/Soakingarri/data/ask/chunked_data",
+        "output_folder": "/Users/t.baks/Soakingarri/data/ask/embedding_data",
+        "source_label": "Borrowed content and open source",
+        "embedding_model": "BAAI/bge-m3",
+        "device": "mps",
+        "batch_size": 256,
+        "maximum_sequence_length": 8192,
+        "normalized_embeddings": true,
+        "vector_dtype": "float32",
+        "total_embedded_records": 80
+      }
+    },
+    "vector_base": {
+      "status": "success",
+      "input_fingerprint": "52fc367a59ab43f9d38327bcb9a55e99b074b4b28b3c93e3f7829e28563ce6fe",
+      "seconds": 0.02,
+      "finished_at": "2026-10-11T03:18:09.961172+00:00",
+      "manifest": {
+        "program": "SoakinGarri Vector Base Program",
+        "embedding_folder": "/Users/t.baks/Soakingarri/data/ask/embedding_data",
+        "chunked_folder": "/Users/t.baks/Soakingarri/data/ask/chunked_data",
+        "output_folder": "/Users/t.baks/Soakingarri/data/ask/vector_base",
+        "source_label": "Borrowed content and open source",
+        "embedding_model": null,
+        "deduplicated": true,
+        "duplicates_removed": 0,
+        "records_with_text": 80,
+        "records_without_text": 0,
+        "vector_count": 80,
+        "dimension": 1024,
+        "vector_dtype": "float32",
+        "vector_file": "/Users/t.baks/Soakingarri/data/ask/vector_base/vectors.npy",
+        "record_file": "/Users/t.baks/Soakingarri/data/ask/vector_base/records.jsonl"
+      }
+    },
+    "keyword_index": {
+      "status": "success",
+      "input_fingerprint": "52fc367a59ab43f9d38327bcb9a55e99b074b4b28b3c93e3f7829e28563ce6fe",
+      "seconds": 0.02,
+      "finished_at": "2026-10-11T03:18:09.988084+00:00",
+      "manifest": {
+        "program": "SoakinGarri Keyword Index Program",
+        "backend": "rank_bm25.BM25Okapi",
+        "embedding_folder": "/Users/t.baks/Soakingarri/data/ask/embedding_data",
+        "chunked_folder": "/Users/t.baks/Soakingarri/data/ask/chunked_data",
+        "output_folder": "/Users/t.baks/Soakingarri/data/ask/keyword_index",
+        "source_label": "Borrowed content and open source",
+        "deduplicated": true,
+        "duplicates_removed": 0,
+        "records_with_text": 80,
+        "records_without_text": 0,
+        "record_count": 80,
+        "record_file": "/Users/t.baks/Soakingarri/data/ask/keyword_index/records.jsonl",
+        "tokens_file": "/Users/t.baks/Soakingarri/data/ask/keyword_index/corpus_tokens.jsonl"
+      }
+    }
+  },
+  "cleaning_files": {
+    "Gell_Alfred_1998_2000_Time_and_Social_Anthropology.pdf": {
+      "signature": "965c20166298e36f545512c4a8eaa29de55ecfd4c630310e5dae65b8757e1f3e",
+      "status": "success",
+      "output": "/Users/t.baks/Soakingarri/data/ask/cleaned_data/Gell_Alfred_1998_2000_Time_and_Social_Anthropology_cleaned.json"
+    }
+  }
+}

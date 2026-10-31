@@ -1,0 +1,27 @@
+{
+  "program": "SoakinGarri Keyword Index Program",
+  "backend": "rank_bm25.BM25Okapi",
+  "embedding_folder": "/Users/t.baks/Soakingarri/data/ask/embedding_data",
+  "chunked_folder": "/Users/t.baks/Soakingarri/data/ask/chunked_data",
+  "output_folder": "/Users/t.baks/Soakingarri/data/ask/keyword_index",
+  "source_label": "Borrowed content and open source",
+  "datasets": [
+    {
+      "dataset": "llm",
+      "status": "included",
+      "record_count": 54
+    },
+    {
+      "dataset": "rag",
+      "status": "included",
+      "record_count": 26
+    }
+  ],
+  "deduplicated": true,
+  "duplicates_removed": 0,
+  "records_with_text": 80,
+  "records_without_text": 0,
+  "record_count": 80,
+  "record_file": "/Users/t.baks/Soakingarri/data/ask/keyword_index/records.jsonl",
+  "tokens_file": "/Users/t.baks/Soakingarri/data/ask/keyword_index/corpus_tokens.jsonl"
+}

@@ -1,0 +1,187 @@
+TECHNICAL SUMMARY
+Source file: Gell_Alfred_1998_2000_Time_and_Social_Anthropology_cleaned.json
+Document id: DOC-f2c0df61f7d7196feeba1e12
+Source: Borrowed content and open source
+Findings: 43 (formula: 34, concept: 8, technical_drawing: 1)
+
+================================================================
+FORMULAS AND EQUATIONS (34)
+================================================================
+
+[p. 3 | book on the Anthropology of Time (Gell, 1992). But the experience I gathered]
+book - which
+    while researching this book - which I promised to my colleagues and myself before I had the least notion as to its contents - has rendered me more skeptical than I was at the outset of my project.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+9-11)
+    9-11) proposed the social origins of human temporal awareness in the following terms: What philosophers call the categories of the understanding, the ideas of time, space, class, number, cause, personality... correspond to the most universal properties of things,... they are like the solid frame surrounding all thought [which] does not seem to be able to separate itself from them without …
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+functionaUsm - representations
+    Durkheim's thesis, i.e. that human time cognition and time concepts were socially determined, found favour with a later generation of British social anthropologists, who responded both to Durkheim's intellectualism (his focus on 'collective representations') and his functionaUsm - representations could be explained on the basis of their contribution to the 'organic' life of society.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+theory^ while
+    In 'The Nuer' (1940) Evans-Pritchard made a sensible distinction between 'oecological time' and 'structural time' which enabled him to preserve the more useful features of the Durkheimian theory^ while silently abandoning its more grandiose Kantian claims.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+the * To
+    The time-frame of (oral) genealogical reckoning, with its conventionally tidied-up generations, and its insistence on maintaining a fixed number of generations between founding ancestors and living descendants is the * To which he continued to pay lip-service.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+repetitive/cyclical
+    Having a repetitive/cyclical schedule for events does not mean having an idea that time itself is repetitive.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+Wednesday - again
+    The repeatedness of successive Wednesdays depends precisely on the (local) linearity and orientedness of time which alone allows us to say, 'Wednesday - again'.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+year - or
+    Unfortunately, anthropologists, confronted with religious rituals apparently designed to bring the year - or the life cycle ~ back to its point of origin, have reasoned that such behaviour would be inexplicable unless people believed that time itself were cyclic.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+five- six- and
+    The most 'Balinese' of these calendars is the ritual-permutational one, which combines five- six- and seven-day cycles to produce a 210-day 'year' each day of which is specifiable via a unique trinomial expression.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+days - features
+    so-called 'months' which ignore the phases of the moon, the weekly cycle, and which may have 28, 29, 30, or 31 days - features which seem quite perplexing to non-users of the Gregorian calendar.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+world/process
+    But to focus on such practical issues is to miss the point which Geertz is really driving at, which is to suggest that the Balinese may (in some, if not all contexts) conceptualise the world/process in terms different from our own.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+cyclic/immobile
+    Practical time is linear and progressive, ideological time is cyclic/immobile; practical time comes from experience, ideological time from ritual dogma and performance.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+practical - after
+    Nor are 'cyclic' time-schemes necessarily ideological rather than practical - after all, agriculture everywhere is cyclical and
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+temporal- cognitive
+    Different environments and productive technologies can motivate a variety of calendrical devices adapted to specific circumstances, and it would be hard to extract from this diverse mass of cultural schemes a few which could be said to be 'basic' temporal- cognitive universals.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+59-60)
+    59-60).
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+anticipating - and
+    As the car plunges down one apparent cliff-face, one is already anticipating - and indeed already living through - the racketing crunch which will occur as one hits the bottom of the slope.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+dislocations - experiences
+    This exhilarating sequence of temporal dislocations - experiences of anticipating an imminent future ('crunch') which is as present as the present itself (if not more so) and of a past which seems, likewise, to live on into its own future as a visceral wrench - is something urbanites will happily pay good money for.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+Thompson) - but
+    only have access to this kind of continuous, unbounded self-transforming time in the artificial setting of a funfair, but that is because the regimentation of time has become an imperative of capitalist production (Le Goff, Thompson) - but for others, not so constrained, why should time be anything other than a selfgenerating 'present' coming out of a past and oriented towards a future which are …
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+counter-gifts - of
+    A large proportion of anthropological literature concerns gifts and counter-gifts - of food, of valuables, of livestock, of bndes and grooms - because pre-capitalist noncommodity 'embedded' economies are linked with kinship, marriage, politics and religion via 'gift' exchange institutions.
+
+[pp. 13-16 | part of the essential fabric of social life. But when should a gift be returned? Not]
+porridge) - and
+    There is, however, a moment between impolite haste and excessive laggardliness, which is 'just right' (like the temperature of the middle bear's porridge) - and this is the moment when the counter-gift should be returned.
+
+[pp. 13-16 | part of the essential fabric of social life. But when should a gift be returned? Not]
+armshells^ promising
+    Then I go [south] to Sanaroa and in four different places secure four different armshells^ promising each man who gives me a shell necklace.
+
+[pp. 13-16 | part of the essential fabric of social life. But when should a gift be returned? Not]
+peasant/tribal
+    It seems to me that while there may be a different balance between Bourdieuian 'evolving' time versus abstract, calculated and manipulated time as between peasant/tribal temporal regimes and our own, it cannot be said that either has absolute preponderance anywhere, because each requires, and calls forth, the other.
+
+[pp. 13-16 | part of the essential fabric of social life. But when should a gift be returned? Not]
+11-day
+    Whatever use they may be, lunar calendars are going to come unstuck unless some extra machinery for 'intercalation' exist to cover the 11-day deficit.
+
+[pp. 13-16 | part of the essential fabric of social life. But when should a gift be returned? Not]
+and/or
+    But when pressed by a curious anthropologist to be totally specific on this point, they disclaim knowledge and/or cite the (unavailable) authority of dead or distant 'experts' as the following dialogue brings out.
+
+[pp. 13-16 | part of the essential fabric of social life. But when should a gift be returned? Not]
+listens - though
+    588) What the Mursi have is not so much a calendar as a calendrical debate, an running argument about what month it it is, to which Turton and Ruggles' informant claims he only listens - though one suspects he may put in his twopennies' worth when the anthropologists are out of earshot; and, from one point of view, it is just as well that this permanent state of collective indecision exists about …
+
+[pp. 16-17 | Drinking]
+argument - other
+    It is all a matter of the flux of village opinion, there being no single knock-down argument - other than the annual arrival of the Omo floods - to identify the Bergu once and for all.
+
+[pp. 16-17 | Drinking]
+worrying - or
+    Watching the sun go into his house and worrying - or not worrying - about the still distant rainy season is also part of the process of keeping up with time.
+
+[pp. 17-18 | Kedang]
+Pitt- Bloch
+    Pitt- Bloch, M., 1977, The past in the present and Rivers (ed), Mediterranean Countrymen, the past, Man (n.s.l2) 278-92.
+
+[p. 18 | Knowledge; Maurice Bloch and Balinese]
+Time* MAn
+    Time* MAn (n.s.) 16, 220-34.
+
+[p. 18 | Comrie, B., 1985 (Cambridge University]
+3-32
+    Parkes, R and Thrift, N., 1980, Times, Spaces, and its uses' Anthropos 71: 3-32.
+
+[p. 18 | Evans-Pritchard, E.. 1939, 'Nuer Time Reck-]
+189-216
+    Spencer, P., 1965, Samburu (Routledge, Lononing' Africa 12, 189-216.
+
+[p. 18 | Evans-Pritchard, E.. 1939, 'Nuer Time Reck-]
+(Rout- Systems
+    Fortune, R., 1932, Sorcerers of Dobu (Rout- Systems (Academic Books, New York).
+
+[p. 18 | Tannenbaum, N., 1988, *The Shan Calendrical]
+14-26
+    Geertz, C, 1973, The Interpretation of Culture System and its uses' Mankind 18, 14-26.
+
+[p. 18 | Tannenbaum, N., 1988, *The Shan Calendrical]
+585-93
+    Current Anthropology 19, 585-93.
+
+================================================================
+CONCEPTS AND DEFINITIONS (8)
+================================================================
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+What
+    What is the origin of this differentiation?... observation proves that these indispensable guidelines are taken from social life.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+This
+    This is a characteristic anthropological stance, ambiguously poised between acceptance of belief systems at face value, in the name of seeing the world 'from the native's point of view', yet obliged to discount any genuine possibility that the natives might have got things right, in the name of science and reason.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+The Durkheimian equation of social schedules and time itself ('category' time) has misled many anthropologists and sociologists, like Leach, into drawing a broad distinction between archaic 'cyclical' time and modem linear time (Gurvich, 1961).
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+Temporal cultural relativism and its discontents This position
+    Temporal cultural relativism and its discontents This position is known as 'cultural relativism' The thesis that different cultures 'live' in different temporal frameworks can be called 'temporal cultural relativism' and is widespread, deriving not just from Durkheim, but also from the neo-Kantian traditions within American Cultural anthropology from Boas onwards.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+The most 'Balinese' of these calendars
+    The most 'Balinese' of these calendars is the ritual-permutational one, which combines five- six- and seven-day cycles to produce a 210-day 'year' each day of which is specifiable via a unique trinomial expression.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+Because Bourdieu is trying here to evoke a species of temporal experience and attitude which is by definition 'not' that available to his (metropolitan, educated) readers, he is obliged to use rather indirect language, and anybody would be forgiven for finding his words baffling.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+The ride
+    The ride is a temporal whole focused around a 'now' which continually transforms while remaining continuous with itself, undivided into discrete blocs or periods.
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+It
+    It is a certain experience of vivid temporality unbounded by divisions and schemes, which is simply lived through.
+
+================================================================
+TECHNICAL DRAWINGS AND SCHEMATICS (1)
+================================================================
+
+[pp. 3-13 | chapter expresses a more cautious view than the one which I think is still]
+Leach's evocation of archaic temporality as a pendulum swinging between now and not-now, never able to free itself from the repetition of what was before and will be hereafter (forever and ever) is wildly off the mark when placed against even the most schematic ethnography of the time concepts of non-western peoples.
+

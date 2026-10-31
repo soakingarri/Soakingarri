@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+.claude/
+*.tmp
+*.lock
+.met_recovery_done
+*.full_backup.jsonl
